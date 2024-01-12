@@ -14,11 +14,12 @@ UADownloader is a simple GUI application built with Tkinter to download YouTube 
 
    
 
-3. Choose the download type (Single Video or Playlist) from the dropdown menu.
-   ![image](https://github.com/umesh72/UVideo-Download/commit/14958d1bbeff8013ed99d4fe228cb200abf3d21b)
-5. Enter the YouTube video URL in the "Source URL" field.
-6. Click the "Browse" button to choose the download location.
-7. Click the "Download" button to initiate the download.
+2. Choose the download type (Single Video or Playlist) from the dropdown menu.
+  ![image](https://github.com/umesh72/UVideo-Download/assets/84169316/3a854908-567d-4593-ac71-21e27db99bcf)
+
+3. Enter the YouTube video URL in the "Source URL" field.
+4. Click the "Browse" button to choose the download location.
+5. Click the "Download" button to initiate the download.
 
 ## Dependencies
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
